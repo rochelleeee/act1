@@ -211,7 +211,7 @@ strong,span{
             <p style="display:inline;">About</p>
             <a href="#"><i class="fas fa-pen stroke-transparent-blue"></i></a>
         </div>
-        <p id="year-graduation">Expected Year of Graduation<br><strong>2027</strong></p>
+        <p id="year-graduation"expected Year of Graduation<br><strong>2027</strong></p>
         <p id="education">Education<br><strong>Master of Science in Computer Engineering <br><br> Bachelor of Science in Computer Engineering</strong></p>
 
         <p id="telephone">Telephone<br><strong>09123456789</strong></p>
